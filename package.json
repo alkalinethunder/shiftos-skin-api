@@ -1,0 +1,19 @@
+{
+  "name": "shiftos-skin-api",
+  "version": "1.0.0",
+  "description": "Web API for publishing and downloading skins and mods for The Shiftnet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alkalinethunder/shiftos-skin-api.git"
+  },
+  "author": "Michael VanOverbeek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alkalinethunder/shiftos-skin-api/issues"
+  },
+  "homepage": "https://github.com/alkalinethunder/shiftos-skin-api#readme"
+}
